@@ -4,7 +4,7 @@ Vent Social Media is a platform designed specifically for students to anonymousl
 Features
 Anonymous Posting: Share your thoughts without revealing your identity.
 
-Supportive Community: Connect with other students who understand and empathize with your experiences.
+Supportive Community: Connect with other students who understand and empathize with your experiences aso not only to get support from peers but also from proffetionals
 
 Real-Time Updates: Stay engaged with the latest posts and interactions.
 

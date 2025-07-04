@@ -1,9 +1,5 @@
 # Mind Hub
 
-A new Flutter project.
-
-## Getting Started
-
 Mind Hub is a social media application designed to help students connect with each other, share their thoughts, and seek guidance from professionals. The app incorporates OpenAI technology to detect and filter inappropriate comments, ensuring a safe and supportive environment for users.
 
 ▎Features
